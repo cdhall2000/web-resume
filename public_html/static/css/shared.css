@@ -1,0 +1,25 @@
+html {
+    font-family: 'Courier New', monospace;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    text-align: center;
+}
+
+.ch-section {
+    padding: 1rem;
+    margin-top: 1rem;
+    background-color:azure;
+}
